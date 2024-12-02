@@ -4,7 +4,7 @@ Right now I’m currently having fun with a lot of different themes and projects
 
 If you feel like it:
 
-[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/gbraad)
+[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/gjed)
 
 <!---
 Gjed/Gjed is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
